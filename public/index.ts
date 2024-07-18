@@ -1,0 +1,1 @@
+export { default as centerMenu } from './hero1.jpg';
