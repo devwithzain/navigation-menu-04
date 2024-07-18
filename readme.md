@@ -1,4 +1,4 @@
-# Responsive Navigation Menu Component Created with
+# navigation menu component 04 Created with
 
 - Next Js ✅
 - TypeScript ✅
@@ -8,4 +8,4 @@
 
 # Preview
 
-<img width="100%" height="100%" src="https://github.com/devwithzain/menu-components/assets/131141179/2e346ae3-ca74-492d-9fe6-006512ae2357" />
+<img width="100%" height="100%" src="https://github.com/user-attachments/assets/f3e94f66-7152-429a-b686-705e877b2292" />
